@@ -1,0 +1,11 @@
+numpy
+fastapi
+mangum
+Uvicorn
+opencv-python-headless
+boto3
+onnxruntime
+pyts
+scipy
+tensorflow
+
